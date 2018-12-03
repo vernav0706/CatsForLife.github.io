@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: why cats are fun to be around with
 ---
+Cats are fun to be around because they are calm and quiet. Mostly all cats are calm and sleep/nap all day. Sometimes the cats dont even bother us just only when it is time to eat. Also cats love to play around and you dont even need expensive toys to play with them. All you need is a shoelace to play with. 
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
