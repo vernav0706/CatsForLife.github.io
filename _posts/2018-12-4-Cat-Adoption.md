@@ -3,7 +3,7 @@ Lay Out: Post
 Tittle: Why to adopt a cat. 
 ---
 
-
+![Cats for Adoption](/images/cat adoption.jpg)
 
 ## Cat Adoption 
  
