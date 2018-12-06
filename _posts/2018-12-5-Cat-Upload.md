@@ -10,4 +10,4 @@ Tittle: Cats are Cute
 
 Cats are cute because they are small furry creatures that love to cuddle, sleep, eat, and pretty much do nothing. 
 They are easy to take care of and there is really no effort involved in taking care of them.
-Like look at the baby kitty with pretty eyes that are different colors. 
+The cat above is a lovely black Median Domestic hair cat (which is the bred to it). 
