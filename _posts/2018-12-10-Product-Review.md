@@ -19,4 +19,4 @@ There are a lot of places to get scratching post but here is where they are main
 
 ## Why I recomend getting a Scrathing Post 
 
-This a nice little gift to get for your cat. They have a place to scratch and play and even rest when they feel tired after playing around. Cats will love to play with these all day and it keeps them intertanted for most of the day.
+This a nice little gift to get for your cat. They have a place to scratch and play and even rest when they feel tired after playing around. Cats will love to play with these all day and it keeps them intertanted for most of the day. I have a cat of my own and she loved her scratching post. She would relax on it most of the day and loved the mouse that came attached with it. After she had kittens they would scratch and climd the post for their enjoyment. So from personal experiance i know the cats would love it.
