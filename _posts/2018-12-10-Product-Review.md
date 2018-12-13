@@ -3,7 +3,7 @@ Layout:Post
 Tittle:Product Review 
 ---
 
-![Cat Scratching post](/image/scratchingpost.jpg)
+![Cat Scratching post](/images/scratchingpost.jpg)
 
 ## Product Review 
 
