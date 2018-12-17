@@ -1,6 +1,6 @@
 ---
-Layout:Post 
-Tittle:Product Review 
+Layout: Post 
+Tittle: Product Review 
 ---
 
 ![Cat Scratching post](/images/scratchingpost.jpg)
